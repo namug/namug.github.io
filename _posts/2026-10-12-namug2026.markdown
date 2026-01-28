@@ -1,0 +1,8 @@
+---
+layout: default
+title: American Modelica Conference 2026
+date: 2024-10-12
+date-end: 2024-10-14
+external: true
+external-url: https://modelica.org/events/american2026/
+---
